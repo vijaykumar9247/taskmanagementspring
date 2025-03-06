@@ -13,7 +13,7 @@ public class TaskmanegerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TaskmanegerApplication.class, args);
 		
-		System.out.println("hiiii");
+		System.out.println("byeee");
 	}
 	@Bean
     public ModelMapper modelMapper() {
